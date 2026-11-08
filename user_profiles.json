@@ -1,0 +1,63 @@
+[
+  {
+    "user_id": "U101",
+    "name": "Aarav Sharma",
+    "persona": "AI & Tech Engineer",
+    "description": "Obsessed with frontier language models, semiconductor breakthroughs, autonomous systems, and edge computing.",
+    "history": [
+      "N001",
+      "N002",
+      "N003",
+      "N004"
+    ],
+    "target_positive": "N005"
+  },
+  {
+    "user_id": "U102",
+    "name": "Dr. Elena Rostova",
+    "persona": "Biomedical & Biotech Researcher",
+    "description": "Follows gene therapy, CRISPR advances, non-invasive neurotechnology, oncology, and cellular rejuvenation.",
+    "history": [
+      "N021",
+      "N022",
+      "N023"
+    ],
+    "target_positive": "N024"
+  },
+  {
+    "user_id": "U103",
+    "name": "Marcus Vance",
+    "persona": "Macro Investor & Clean Energy Analyst",
+    "description": "Tracks central bank policy, battery scaling, grid storage, and critical mineral supply chains.",
+    "history": [
+      "N008",
+      "N010",
+      "N012",
+      "N013"
+    ],
+    "target_positive": "N014"
+  },
+  {
+    "user_id": "U104",
+    "name": "Samantha Chen",
+    "persona": "Astrophysics & Space Enthusiast",
+    "description": "Passionate about exoplanet discovery, lunar exploration, quantum physics, and nuclear fusion.",
+    "history": [
+      "N017",
+      "N018",
+      "N020"
+    ],
+    "target_positive": "N019"
+  },
+  {
+    "user_id": "U105",
+    "name": "David O'Connor",
+    "persona": "Sports & Sports-Tech Fan",
+    "description": "Follows modern sports analytics, biometric tracking, EV racing, and biomechanical athletic gear.",
+    "history": [
+      "N025",
+      "N026"
+    ],
+    "target_positive": "N027"
+  }
+]
